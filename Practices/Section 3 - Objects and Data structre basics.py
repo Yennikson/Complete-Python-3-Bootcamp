@@ -1,5 +1,5 @@
 # Basic Math
-
+# float is decimals
 
 a = 2
 b = 5
